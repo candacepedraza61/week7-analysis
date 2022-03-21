@@ -1,3 +1,13 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.json
+
+.DS_store
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
